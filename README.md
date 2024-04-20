@@ -1,7 +1,7 @@
 # Argument resolver
-This project demonstrates the power of the Automated Specification resolving library in conjunction with Spring's Specification abstraction to generate dynamic queries for a RESTful API
+This project demonstrates the power of the Automated Specification resolving library in conjunction with Spring's Specification abstraction to generate dynamic queries for a RESTful API.
 
-[Automated Specification resolving](https://github.com/tkaczmarzyk/specification-arg-resolver)
+[Automated Specification Resolving](https://github.com/tkaczmarzyk/specification-arg-resolver) <br>
 [Specification abstraction.](https://docs.spring.io/spring-data/jpa/reference/jpa/specifications.html)
 
 Uses a H2 in memory database to store data. 
